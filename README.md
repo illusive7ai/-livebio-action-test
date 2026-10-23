@@ -1,14 +1,13 @@
-# livebio action test
+# livebio hosted-images test
 
-A throwaway repository used to check that the livebio GitHub Action works end to end.
-It can be deleted once the check has passed.
+This README contains no image files. Every picture below is drawn live by the livebio server.
 
 <!-- livebio:start -->
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-dark.svg">
-  <img alt="Illusivehacks on GitHub, lead story WI-FI-Brute-Forcer-Key-Combinator-, 57 repositories, 332 stars, 1,155 followers, 504 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/frontpage-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-dark.svg?t=showcase">
+  <img alt="Illusivehacks on GitHub, 57 repositories, 332 stars, 1,155 followers, 470 contributions in the past year, a 7 days current streak, mostly Python" src="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-light.svg?t=showcase" width="900">
 </picture>
 </div>
 
@@ -20,23 +19,23 @@ It can be deleted once the check has passed.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-city-dark.svg">
-  <img alt="Contribution city: 504 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="livebio/frontpage-city-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-city-dark.svg?t=showcase">
+  <img alt="Contribution city: 470 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-city-light.svg?t=showcase" width="900">
 </picture>
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-chess-dark.svg">
-  <img alt="A live chess game: The Game of the Century, Donald Byrne against Bobby Fischer. Move 25, White to play" src="livebio/frontpage-chess-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-chess-dark.svg?t=showcase">
+  <img alt="A live chess game: The Game of the Century, Donald Byrne against Bobby Fischer. Move 25, White to play" src="https://livebio-contributions.livebio.workers.dev/u/illusive7ai/showcase-chess-light.svg?t=showcase" width="900">
 </picture>
 </div>
 
 <div align="center">
 <a href="https://github.com/illusive7ai/livebio">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/credit-dark.svg">
-  <img alt="livebio by illusivehacks" src="livebio/credit-light.svg" width="229">
+  <source media="(prefers-color-scheme: dark)" srcset="https://livebio-contributions.livebio.workers.dev/credit-dark.svg">
+  <img alt="livebio by illusivehacks" src="https://livebio-contributions.livebio.workers.dev/credit-light.svg" width="229">
 </picture>
 </a>
 </div>
