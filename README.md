@@ -8,7 +8,7 @@ It can be deleted once the check has passed.
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-dark.svg">
-  <img alt="Illusivehacks on GitHub, lead story WI-FI-Brute-Forcer-Key-Combinator-, 57 repositories, 331 stars, 1,155 followers, 502 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/frontpage-light.svg" width="900">
+  <img alt="Illusivehacks on GitHub, lead story WI-FI-Brute-Forcer-Key-Combinator-, 57 repositories, 332 stars, 1,155 followers, 504 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/frontpage-light.svg" width="900">
 </picture>
 </div>
 
@@ -21,7 +21,7 @@ It can be deleted once the check has passed.
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-city-dark.svg">
-  <img alt="Contribution city: 502 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="livebio/frontpage-city-light.svg" width="900">
+  <img alt="Contribution city: 504 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="livebio/frontpage-city-light.svg" width="900">
 </picture>
 </div>
 
