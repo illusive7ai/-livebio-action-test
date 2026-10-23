@@ -7,8 +7,8 @@ It can be deleted once the check has passed.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/showcase-dark.svg">
-  <img alt="Illusivehacks on GitHub, 57 repositories, 331 stars, 1,155 followers, 497 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/showcase-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-dark.svg">
+  <img alt="Illusivehacks on GitHub, lead story WI-FI-Brute-Forcer-Key-Combinator-, 57 repositories, 331 stars, 1,155 followers, 502 contributions in the past year, a 7 days current streak, mostly Python, HTML, Batchfile" src="livebio/frontpage-light.svg" width="900">
 </picture>
 </div>
 
@@ -20,15 +20,15 @@ It can be deleted once the check has passed.
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/showcase-city-dark.svg">
-  <img alt="Contribution city: 497 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="livebio/showcase-city-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-city-dark.svg">
+  <img alt="Contribution city: 502 contributions in the past year across 127 active days, busiest day 48, one building for each day" src="livebio/frontpage-city-light.svg" width="900">
 </picture>
 </div>
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="livebio/showcase-chess-dark.svg">
-  <img alt="A live chess game: The Game of the Century, Donald Byrne against Bobby Fischer. Move 25, White to play" src="livebio/showcase-chess-light.svg" width="900">
+  <source media="(prefers-color-scheme: dark)" srcset="livebio/frontpage-chess-dark.svg">
+  <img alt="A live chess game: The Game of the Century, Donald Byrne against Bobby Fischer. Move 25, White to play" src="livebio/frontpage-chess-light.svg" width="900">
 </picture>
 </div>
 
