@@ -1,0 +1,13 @@
+username: illusive7ai
+template: showcase
+theme: auto
+motion: true
+credit: true
+blocks:
+  - stats
+  - activity
+  - languages
+  - projects
+  - city
+  - game
+text: {}
